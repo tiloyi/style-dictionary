@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0.0-prerelease.26
+
+### Patch Changes
+
+- 061c67e: Hotfix to address outputReferencesTransformed util not handling object-value tokens properly.
+
 ## 4.0.0-prerelease.25
 
 ### Major Changes
