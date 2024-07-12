@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.0.1
+
+### Patch Changes
+
+- e8aea2f: Fix transitive color transform advanced example, migrate chroma-js to colorjs.io
+- 61b6984: Fix 'filePath' missing from falsy token values
+- 3ae67e3: Upgrade memfs esm fork to publish types and bumping stream to fix unclear licensing issue with transitive dependency.
+
 ## 4.0.0
 
 > For a more comprehensive migration guide from version 3.x.x to version 4.0.0,
